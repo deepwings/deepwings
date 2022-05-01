@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepwings
-- 👀 I’m interested in Diabetic retinopathy implementations
+- 👀 I’m interested in Python with new opportunities
 - 🌱 I’m currently learning this as how-to-do
 - 💞️ thank you
 
